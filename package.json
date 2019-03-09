@@ -1,0 +1,15 @@
+{
+  "name": "csvjson-csv2json",
+  "description": "Converts CSV to JSON.",
+  "version": "5.0.5",
+  "author": "Cthulhu",
+  "contributors": [],
+  "dependencies": { },
+  "devDependencies": { },
+  "main": "csv2json.js",
+  "keywords": ["csv", "json", "parse", "convert"],
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}
